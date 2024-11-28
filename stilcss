@@ -1,23 +1,22 @@
-body {
-    color: rgb (white);
+body{
     background-color: black;
+    color: white;
 }
-section {
-    background-color: rgb(240, 215, 250);
+section{
+    background-color: rgb(109, 1, 109);
     padding-top: 80px;
-    padding-right: 80px;
+    padding-bottom: 80px;
     display: flex;
     justify-content: center;
 }
-.chamada-texto {
+.chamada-texto{
     margin-right: 5%;
 }
 img{
-    height: 200px;
+   height: 200px; 
 }
 .categoria-videos{
     display: flex;
     overflow-x: auto;
     gap: 10px;
 }
-    
